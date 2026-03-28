@@ -1,6 +1,3 @@
-"""
-Originally hosted at https://gist.github.com/phcavelar/10afa6a22d7ab2d932894b54a6a768dc
-"""
 import os
 import os.path as osp
 
